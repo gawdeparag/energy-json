@@ -31,6 +31,28 @@
             "energyConsumed": 600,
             "exportableEnergy": 600,
             "timestamp": "17-02-2024 23:59:59"
+        },
+        {
+            "stat_id": 4,
+            "user": {
+                "id": 1,
+                "username": "johndoe"
+            },
+            "energyGenerated": 1230,
+            "energyConsumed": 500,
+            "exportableEnergy": 730,
+            "timestamp": "16-02-2024 23:59:59"
+        },
+        {
+            "stat_id": 5,
+            "user": {
+                "id": 1,
+                "username": "johndoe"
+            },
+            "energyGenerated": 1800,
+            "energyConsumed": 600,
+            "exportableEnergy": 1200,
+            "timestamp": "15-02-2024 23:59:59"
         }
     ]
 }
